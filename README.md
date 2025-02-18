@@ -10,3 +10,4 @@ Benefits of working with LushBinary.
 1. Dividing screens to multiple Agile sprints, and start the development.
 1. Weekly/Biweekly demo followed by feedback.
 1. Start of new sprint for new screens and previous sprint feedback.
+1. Go live: Apart from software deployment to scalable cloud, we help customers prepare marketing content, and stand side by side for the production deployment.
